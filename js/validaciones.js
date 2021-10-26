@@ -22,18 +22,6 @@ function validar(evento) {
   if (document.getElementById('iNombre').lengh < 3)
     return false
 
-  //Comprobar el campo Apellidos
-
-
-  //Comprobar el campo Edad
-
-
-  //Comprobar el campo Email
-
-  
-  //Comprabar el campo NIF
-
-
 
   //Comprobamos la Aceptación de la Política de Privacidad
   if(!document.getElementById('iPolitica').checked)
